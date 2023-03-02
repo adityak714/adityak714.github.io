@@ -10,7 +10,6 @@ function Header() {
       textAlign: 'start',
       fontSize: '1.5rem',
       color: 'white',
-      fontFamily: 'Ubuntu',
       display: 'flex',
       alignItems: 'center',
       justifyContent: 'space-between'
