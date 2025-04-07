@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-theme                    : "minimal-mistakes-jekyll"
+remote_theme             : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "dirt"
 title                    : "About Me"
 title_separator          : "-"
