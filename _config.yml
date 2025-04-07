@@ -8,8 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-remote_theme             : mmistakes/minimal-mistakes-jekyll
-minimal_mistakes_skin    : dirt
+theme                    : default
+#remote_theme             : mmistakes/minimal-mistakes-jekyll
+#minimal_mistakes_skin    : dirt
 title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Aditya Khadkikar"
