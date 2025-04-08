@@ -85,7 +85,8 @@
   vertical-align: top;
   width: 225px;
   height: 225px;
-
+  margin: 30px;
+   
   @include breakpoint($large) {
     display: block;
     width: auto;
