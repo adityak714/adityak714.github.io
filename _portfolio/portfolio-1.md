@@ -1,6 +1,6 @@
 ---
 title: "Dentistimo - Distributed Dentist Appointment Booking System"
-excerpt: "<img src='/images/myappts-delete.png'><br/><img src='/images/booking-page.png'><br/><img src='/images/book-appt.png'>"
+excerpt: "<img src='/images/booking-page.png'><br/><img src='/images/book-appt.png'><br/><img src='/images/myappts-delete.png'>"
 collection: portfolio
 ---
 
