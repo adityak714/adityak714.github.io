@@ -13,7 +13,9 @@ My interests are in the field of **Machine Learning**, and **Deep Learning**, wi
 
 ## Skills and Frameworks
 
-I hold experience in software development in Python, Java, JavaScript, and HTML/CSS. In a diverse range of team-based environments, I have applied software development practices, particularly Agile methodologies like Kanban and Scrum. Frameworks and tools that I have used: 
+I hold experience in software development in Python, Java, JavaScript, and HTML/CSS. In a diverse range of team-based environments, I have applied software development practices, particularly Agile methodologies like Kanban and Scrum. 
+
+Frameworks and tools that I have used: 
 
 ```
 ML/DL          : TensorFlow, LangChain, PyTorch, scikit-learn
