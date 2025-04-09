@@ -1,7 +1,7 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/myappts-delete.png'>"
+excerpt: "Dentistimo - Distributed Dentist Appointment Booking System<br/><img src='/images/myappts-delete.png'><br/><img src='/images/booking-page.png'><br/><img src='/images/book-appt.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Personally contributed on creating the frontend interface using the React Library in Typescript, of a larger distributed appointment management application. This was created as part of the course "Mini Project: Distributed Systems Development - DIT356" at the University of Gothenburg.
