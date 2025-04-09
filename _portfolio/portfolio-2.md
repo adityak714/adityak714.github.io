@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Marketpulse - ML-based Stock Market Trend Analysis Application"
+excerpt: "<img src='/images/mp-site.png'><br/><img src='/images/mp-lime.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Personally contributed on training a deep neural network using **Tensorflow Keras**, on analysing stock-based tweets to derive sentiment of the future trend of a stock. Additionally, worked on creating the **admin-side interface**, where new models can be uploaded, performance graphs and confusion matrices can be viewed, and existing models up on the application can be used as starting points to train new versions. Lastly, analysed the **explainability** of the stock tweet-analysis model, using [LIME](https://github.com/marcotcr/lime) as an output-significance analysis tool for text-based classifiers. 
+
+This project was created as part of the course "Software Engineering for Data-Intensive AI Applications - DIT826" at the University of Gothenburg.
