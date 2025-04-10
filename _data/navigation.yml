@@ -20,8 +20,8 @@ main:
   # - title: "Publications"
   #  url: /publications/      
   
-  - title: "Courses"
-    url: /courses/
+  - title: "Academic"
+    url: /academic/
     
   - title: "CV"
     url: /cv/

@@ -2,7 +2,7 @@
 title: 'Advanced Learning Algorithms, Supervised Machine Learning: Regression & Classification'
 collection: publications
 category: courses
-permalink: /academics/course-list
+permalink: /academic/course-list
 date: 2023-11-17
 ---
 

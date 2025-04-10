@@ -1,7 +1,7 @@
 ---
 title: "Exploring Metrics for Safety & Reliability Assessment in an Automotive Emergency Braking Perception System: A Case Study"
 collection: unpublished
-permalink: /academics/papers
+permalink: /academic/papers
 category: manuscripts
 excerpt: "Bachelor's Thesis done for the Software Engineering & Management program jointly at University of Gothenburg and Chalmers University of Technology."
 date: 2024-02-17
