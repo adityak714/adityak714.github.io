@@ -1,5 +1,5 @@
 ---
-title: "Papers"
+title: "Exploring Metrics for Safety & Reliability Assessment in an Automotive Emergency Braking Perception System: A Case Study"
 collection: publications
 permalink: /courses/papers
 category: manuscripts
