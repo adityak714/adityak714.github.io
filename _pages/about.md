@@ -9,7 +9,9 @@ redirect_from:
 
 I am a master's student (M.Sc.) in Data Science at Uppsala University, with a prior Bachelor's degree (B.Sc.) in Software Engineering & Management from the University of Gothenburg, in Sweden. The thesis topic explored in Software Engineering & Management was "Exploring Metrics for Safety and Reliability Assessment in an Automotive Emergency Braking Perception System: A Case Study". 
 
-My interests are in the field of **Machine Learning**, and **Deep Learning**, with a deeper interest developing in the paradigm of Federated Machine Learning, allowing de-centralized model training from multiple clients in a privacy-enhanced method, where data does not need to be transferred, but occurs locally. I have previously worked in a diverse range of projects, primarily in **full-stack web development, data analysis, feature engineering, and ML-powered application development**. I have previously also worked with fine-tuning of Large Language Models in applications of telecommunication products and specs-information retrieval at Ericsson R&D. 
+My interests are in the field of **Machine Learning**, and **Deep Learning**, with a deeper interest developing in the paradigm of Federated Machine Learning, allowing de-centralized model training from multiple clients in a privacy-enhanced method, where data does not need to be transferred, but occurs locally. I have previously worked in a diverse range of projects, primarily in **full-stack web development, data analysis, feature engineering, and ML-powered application development**. 
+
+I have previously also worked with fine-tuning of Large Language Models in applications of telecommunication products and specs-information retrieval at Ericsson R&D. 
 
 ## Skills and Frameworks
 
