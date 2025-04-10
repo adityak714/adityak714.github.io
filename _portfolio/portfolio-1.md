@@ -1,6 +1,6 @@
 ---
 title: "Stochastic/Deterministic Simulations, SVD for Low-Rank Approximation and Pattern Recognition"
-excerpt: "<img src='/images/sc-1.png' width='40%'><img src='/images/sc-2.png' width='60%'><br/><img src='/images/sc-3.png' width='45%'><img src='/images/sc-5.png' width='55%'><br/><img src='/images/sc-4.png' width='100%'>"
+excerpt: "<img src='/images/sc-1.png' width='40%'><img src='/images/sc-2.png' width='60%'><br/><img src='/images/sc-3.png' width='54%'><img src='/images/sc-5.png' width='46%'><br/><img src='/images/sc-4.png' width='100%'>"
 collection: portfolio
 ---
 
