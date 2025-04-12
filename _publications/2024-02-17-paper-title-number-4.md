@@ -4,7 +4,7 @@ collection: unpublished
 permalink: /academic/papers
 category: manuscripts
 excerpt: "Bachelor's Thesis done for the Software Engineering & Management program jointly at University of Gothenburg and Chalmers University of Technology."
-date: 2024-02-17
+date: 2024-06-17
 citation: 'Khadkikar, Aditya and Karar Eshaba, Labiba. (2024). &quot;Exploring Metrics for Safety & Reliability Assessment in an Automotive Emergency Braking Perception System: A Case Study.&quot; <i>Department of Computer Science and Engineering</i>, University of Gothenburg.'
 ---
 
