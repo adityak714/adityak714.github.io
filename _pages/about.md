@@ -8,9 +8,17 @@ redirect_from:
 
 I am a master's student (M.Sc.) in Data Science at Uppsala University, with a prior Bachelor's degree (B.Sc.) in Software Engineering & Management from the University of Gothenburg, in Sweden. The thesis topic explored in Software Engineering & Management was "Exploring Metrics for Safety and Reliability Assessment in an Automotive Emergency Braking Perception System: A Case Study". 
 
-My interests are in the field of **Machine Learning**, and **Deep Learning**, with a deeper interest developing in the paradigm of Federated Machine Learning, allowing de-centralized model training from multiple clients in a privacy-enhanced method, where data does not need to be transferred, but occurs locally. I have previously worked in a diverse range of projects, primarily in **full-stack web development, data analysis, feature engineering, and ML-powered application development**. 
+My interests are in the field of **Machine Learning**, and **Deep Learning**, with a deeper interest developing in the paradigm of Federated Machine Learning, allowing de-centralized model training from multiple clients in a privacy-enhanced method, where data does not need to be transferred, but occurs locally. 
 
-I have previously also worked with fine-tuning of Large Language Models in applications of telecommunication products and specs-information retrieval at Ericsson R&D. 
+- I have previously worked in a diverse range of projects, primarily in **full-stack web development, data analysis, feature engineering, and ML-powered application development**. 
+
+- I have contributed in designing a data-intensive stock sentiment prediction application [Marketpulse](https://adityak714.github.io/portfolio/portfolio-3/) using Django and Tensorflow. 
+  - using an explainable-AI framework ([LIME](https://github.com/marcotcr/lime))
+  - featuring re-training possibilities with an administrator-dashboard for versioning of models currently active on the application, and adding new models or replacing them for use on the production side.
+
+- Worked with fine-tuning of Large Language Models in applications of telecommunication products and specs-information retrieval at Ericsson R&D. 
+
+- Member of Development Division at [Uppsala AI Society](https://www.uuais.com/#events) from August 2024. <img src="images/uuais-logo.png" alt="UUAIS" width="40" style="border-radius: 30%; display: inline; margin-bottom: 5px;"/>
 
 ## Skills and Frameworks
 
