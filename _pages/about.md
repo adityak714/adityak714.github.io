@@ -18,7 +18,7 @@ My interests are in the field of **Machine Learning**, and **Deep Learning**, wi
 
 - Worked with fine-tuning of Large Language Models in applications of telecommunication products and specs-information retrieval at Ericsson R&D. 
 
-- Member of Development Division at [Uppsala AI Society](https://www.uuais.com/#events) from August 2025. <img src="images/uuais-logo.png" alt="UUAIS" width="40" style="border-radius: 30%; display: inline; margin-bottom: 5px;"/>
+- Member of Development Division at [Uppsala AI Society](https://www.uuais.com/#events) from August 2025. &nbsp; <img src="images/uuais-logo.png" alt="UUAIS" width="35" style="border-radius: 30%; display: inline; margin-bottom: 5px;"/>
 
 ## Skills and Frameworks
 
