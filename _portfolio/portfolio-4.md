@@ -1,14 +1,9 @@
 ---
-title: "Handyman Finder - Full-Stack Web App using Vue, NodeJS and MongoDB"
-excerpt: "<img src='/images/handyman-webapp.png'>"
+title: "Marketpulse - ML-based Stock Market Trend Analysis Application"
+excerpt: "<img src='/images/mp-site.png'><br/><img src='/images/mp-lime.png'>"
 collection: portfolio
 ---
 
-A collaborative project done in the course "Web Development - DIT342" at the University of Gothenburg. (view [repo](https://github.com/adityak714/mevn-app-handyman-finder/tree/master))
+Personally contributed on training a deep neural network using **Tensorflow Keras**, on analysing stock-based tweets to derive sentiment of the future trend of a stock. Additionally, worked on creating the **admin-side interface**, where new models can be uploaded, performance graphs and confusion matrices can be viewed, and existing models up on the application can be used as starting points to train new versions. Lastly, analysed the **explainability** of the stock tweet-analysis model, using [LIME](https://github.com/marcotcr/lime) as an output-significance analysis tool for text-based classifiers. 
 
-This application is aimed at clients who are in search of a capable handyman, for most common reparation and maintenance/installation jobs in homes. Upon account creation, the handymen can publish an advertisement that they are willing to work, and connect with clients, also on the platform. Upon so, clients can reserve timeslots/day-slots depending on agreement with the handyman. 
-
-**My contributions:**
-Worked on the authentication functionality of new and existing users (handymen and clients), creation of new users, and the interface for login/logged in users on the frontend side ([example commit](https://github.com/adityak714/mevn-app-handyman-finder/commit/cbab4e4886135f89eaba6489b4c62439121bc62d)). Additionally, created [tests](https://github.com/adityak714/mevn-app-handyman-finder/blob/master/server/tests/server.postman_collection.json) using Postman to assess the HTTP requests on the CRUD operations, and ensuring the right response and HTTP status codes are returned.
-
-The full-stack application was made using the tech stack: **VueJS**, **Node JS**, and **MongoDB**. The website is responsive for different screen sizes, done using media queries.
+A collaborative project done in the course "Software Engineering for Data-Intensive AI Applications - DIT826" at the University of Gothenburg. (view [repo](https://github.com/gusreinaos/marketpulse))
