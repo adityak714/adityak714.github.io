@@ -16,7 +16,7 @@ My interests are in the field of **Machine Learning**, and **Deep Learning**, wi
   - using an explainable-AI framework ([LIME](https://github.com/marcotcr/lime))
   - featuring re-training possibilities with an administrator-dashboard for versioning of models currently active on the application, and adding new models or replacing them for use on the production side.
 
-- Worked with fine-tuning of Large Language Models in applications of telecommunication products and specs-information retrieval at Ericsson R&D. 
+- Worked with orchestration of Large Language Models in applications of telecommunication products and specs-information retrieval at Ericsson R&D. 
 
 - Member of Development Division at [Uppsala AI Society](https://www.uuais.com/#events) from August 2025. &nbsp; <img src="images/uuais-logo.png" alt="UUAIS" width="35" style="border-radius: 30%; display: inline; margin-bottom: 5px;"/>
 
