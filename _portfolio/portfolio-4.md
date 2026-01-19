@@ -1,6 +1,6 @@
 ---
 title: "Marketpulse - ML-based Stock Market Trend Analysis Application"
-excerpt: "<img src='/images/mp-site.png'><br/><img src='/images/mp-lime.png'>"
+excerpt: "<img src='/images/mp-site.png'>"
 collection: portfolio
 ---
 

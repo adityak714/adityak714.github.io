@@ -1,13 +1,19 @@
 ---
-title: "Stochastic/Deterministic Simulations for Modelling Circadian-Rhythm Genetic Oscillators"
-excerpt: "<img src='/images/sc-1.png' width='40%'><img src='/images/sc-2.png' width='60%'>"
+title: "Investigating Bias in Facial Recognition with Representation on the LFW Dataset"
+excerpt: "<img src='/images/bias-in-fr.png' width='100%'>"
 collection: portfolio
 ---
 
-A collection of scientific computing experiments (view [repo](https://github.com/adityak714/scientific-computations/tree/main)), held as part of the course "Scientific Computing for Data Analysis - 1TD352" at Uppsala University.
+My research stages on analyzing bias on the Labelled Faces in the Wild (LFW) dataset:
+- Headpose Estimation​
+- Facial Image Representation Analysis in 2D using t-SNE based approximation​
+- Race/Gender Misclassification Rates​
+- Intra- and Inter-Similarity Density of Facial Images (Bhattacharyya coefficient)​
 
-Reproduced from original study ["Mechanisms of noise-resistance in genetic oscillators"](https://www.pnas.org/doi/abs/10.1073/pnas.092133899): Stochastic and Deterministic simulations conducted, to model circadian rhythms, and creation/binding processes of different involved proteins, in mammals and organisms. 
-- An ODE model was used for the deterministic experiment, with the rates of change of all involved variables. 
-- A Random Walk (Monte Carlo Markov Process) was done for the stochastic experiment, given initial values of the parameters involved, state-change values and propensity functions per reaction type. 
+​Done as a Project in Data Science at Uppsala University. (view [repo](https://github.com/adityak714/impact-of-bias-in-fr)). 
 
-The simulations were conducted in **Python**, and **NumPy** as the numerical computation library. 
+With filtering, a subset was obtained which contains images of individuals that have at least 20 images to their name. ​62 different individuals were obtained from the original dataset, and 20 images were taken for consistency, having 1,240 images total. We use the Deepface toolkit for running the experimentation for this project. We try different facial detector backends: ​dlib​, RetinaFace​, and MTCNN​. 
+
+Gaussian KDE is used for estimating the inter- and intra-distributions, and calculation of the Bhattacharyya Coefficient done using Monte-Carlo based approximation techniques.​ Uncertainties on the received BC value are also estimated with Bootstrapping, at 95% C.I. 
+
+The implementation was done in Python.

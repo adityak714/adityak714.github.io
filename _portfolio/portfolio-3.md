@@ -1,6 +1,6 @@
 ---
 title: "Training Advanced Convolutional Architectures on the MNIST-2D Dataset"
-excerpt: "<img src='/images/dl-ha2-1.png'><br/><img src='/images/dl-ha2-2.png'><br/><img src='/images/dl-ha2-3.png'>"
+excerpt: "<img src='/images/dl-ha2-1.png'>"
 collection: portfolio
 ---
 
