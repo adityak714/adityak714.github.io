@@ -14,14 +14,19 @@ I hold a master's degree (M.Sc.) in Data Science from Uppsala University, with a
 
 Previously worked in a diverse range of projects in **AI development, data analysis, statistical modelling, deep learning,** and **probabilistic machine learning**. 
 
-- Designed a data-intensive stock sentiment prediction application [Marketpulse](https://adityak714.github.io/portfolio/portfolio-3/) using Django and Tensorflow. Analysis on learned features conducted using explainable-AI framework [LIME](https://github.com/marcotcr/lime).
-  - It featured an administrator-dashboard for versioning of models currently active on the application, and adding new models, re-training from checkpoints or replacing them for use on the production side.
+- Currently working on energy-aware autoscaling for Kubernetes-based environments at Ericsson R&D in summer of 2026.
 
 - Worked with orchestration of large language models in applications of telecommunication products and specs-information retrieval at Ericsson R&D in summer of 2024. 
 
-- Currently working on energy-aware autoscaling for Kubernetes-based environments at Ericsson R&D in summer of 2026.
-
 - Previous Board Member in the Development Team at [Uppsala AI Society](https://www.uuais.com/#events) from August 2025 to June 2026. &nbsp; <img src="images/uuais-logo.png" alt="UUAIS" width="35" style="border-radius: 30%; display: inline; margin-bottom: 5px;"/>
+
+**Highlight Project**: Designed a data-intensive stock sentiment and trend prediction application [Marketpulse](https://adityak714.github.io/portfolio/portfolio-4/) using Django and Tensorflow, for investors, stock trends followers, and alike.
+
+  - Built an administrator-dashboard for versioning of models currently active on the application, and adding new models, re-training from checkpoints or replacing them for use on the production side.
+
+  - Trained a sentiment analysis NLP model that analyzed the sentiment for the future trend of a particular stock, from stock-related tweets.
+
+  - Analysed on learned features using explainable-AI framework [LIME](https://github.com/marcotcr/lime), to understand which words influenced the sentiment score output the most/least.
 
 ## Skills and Frameworks
 
