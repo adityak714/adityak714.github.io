@@ -6,19 +6,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student (M.Sc.) in Data Science at Uppsala University, with a prior Bachelor's degree (B.Sc.) in Software Engineering & Management from the University of Gothenburg, in Sweden. The thesis topic explored in Software Engineering & Management was "Exploring Metrics for Safety and Reliability Assessment in an Automotive Emergency Braking Perception System: A Case Study". 
+I hold a master's degree (M.Sc.) in Data Science from Uppsala University, with a prior Bachelor's degree (B.Sc.) in Software Engineering & Management from the University of Gothenburg, in Sweden. My interests are in the field of **machine learning (ML)**, **deep learning (DL)**, **full-stack AI engineering**, and **federated learning**. 
 
-My interests are in the field of **Machine Learning**, and **Deep Learning**, with a deeper interest developing in the paradigm of Federated Machine Learning, allowing de-centralized model training from multiple clients in a privacy-enhanced method, where data does not need to be transferred, but occurs locally. 
+- My completed master's thesis topic in Data Science "[Federated Learning for Automated ECG Classification](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-592448)".
 
-- I have previously worked in a diverse range of projects, primarily in **full-stack web development, data analysis, feature engineering, and ML-powered application development**. 
+- My undergraduate thesis topic in Software Engineering & Management "[Exploring Metrics for Safety and Reliability Assessment in an Automotive Emergency Braking Perception System: A Case Study](https://hdl.handle.net/2077/90467)". 
 
-- I have contributed in designing a data-intensive stock sentiment prediction application [Marketpulse](https://adityak714.github.io/portfolio/portfolio-3/) using Django and Tensorflow. 
-  - using an explainable-AI framework ([LIME](https://github.com/marcotcr/lime))
-  - featuring re-training possibilities with an administrator-dashboard for versioning of models currently active on the application, and adding new models or replacing them for use on the production side.
+Previously worked in a diverse range of projects in **AI development, data analysis, statistical modelling, deep learning,** and **probabilistic machine learning**. 
 
-- Worked with orchestration of Large Language Models in applications of telecommunication products and specs-information retrieval at Ericsson R&D. 
+- Designed a data-intensive stock sentiment prediction application [Marketpulse](https://adityak714.github.io/portfolio/portfolio-3/) using Django and Tensorflow. Analysis on learned features conducted using explainable-AI framework [LIME](https://github.com/marcotcr/lime).
+  - It featured an administrator-dashboard for versioning of models currently active on the application, and adding new models, re-training from checkpoints or replacing them for use on the production side.
 
-- Member of Development Division at [Uppsala AI Society](https://www.uuais.com/#events) from August 2025. &nbsp; <img src="images/uuais-logo.png" alt="UUAIS" width="35" style="border-radius: 30%; display: inline; margin-bottom: 5px;"/>
+- Worked with orchestration of large language models in applications of telecommunication products and specs-information retrieval at Ericsson R&D in summer of 2024. 
+
+- Currently working on energy-aware autoscaling for Kubernetes-based environments at Ericsson R&D in summer of 2026.
+
+- Previous Board Member in the Development Team at [Uppsala AI Society](https://www.uuais.com/#events) from August 2025 to June 2026. &nbsp; <img src="images/uuais-logo.png" alt="UUAIS" width="35" style="border-radius: 30%; display: inline; margin-bottom: 5px;"/>
 
 ## Skills and Frameworks
 
